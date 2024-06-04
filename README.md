@@ -1,6 +1,6 @@
 # Weather_App-java-Swing
 A weather forecast app using Java Swing and JSON. (no test)
-*My first project *
+*My first project*
 My fist app in java (netBeans)  using Swing. We fetch API and take the  Location and Curent and hourly forecast.
 We have such classes as Localita, GestoreAPI, PrevAttuale, PrevOraria, PrevisioneMeteo  that is abstract class. 
 We have 3 forms :
